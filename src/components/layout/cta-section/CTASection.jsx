@@ -1,7 +1,7 @@
 import CircleCTA from "../../svg/cta-svg/CircleCTA";
-import CTASvg from "../../svg/cta-svg/CTASvg";
 import UpperCTASection from "./UpperCTASection";
 import PolygonCTA from "./../../svg/cta-svg/PolygonCTA";
+import CTASvg from "./CTASvg";
 
 const CTASection = () => {
   return (
