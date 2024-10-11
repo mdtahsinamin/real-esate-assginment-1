@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 
-import HoverSvg from "../../svg/team-svg/hoverSvg";
+import HoverSvg from "../../svg/team-svg/HoverSvg";
 import TeamIcon from "./TeamIcon";
 
 const TeamCard = ({ imagePath, name, expert }) => {
