@@ -1,5 +1,5 @@
 import CircleCTA from "../../svg/cta-svg/CircleCTA";
-import CTASvg from "../../svg/cta-svg/CTASvg";
+import CTASvg from "../../svg/cta-svg/CTASvg.jsx";
 import UpperCTASection from "./UpperCTASection";
 import PolygonCTA from "./../../svg/cta-svg/PolygonCTA";
 
