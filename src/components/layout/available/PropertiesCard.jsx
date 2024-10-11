@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 
-import PropertiesSvg from "../../svg/properties-svg/propertiesSvg";
+import PropertiesSvg from "../../svg/properties-svg/PropertiesSvg";
 
 const PropertiesCard = ({ property }) => {
   const {
